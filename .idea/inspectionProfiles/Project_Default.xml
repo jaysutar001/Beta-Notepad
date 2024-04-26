@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PyQt5.QtWidgets.tabBarDoubleClicked.connect" />
+          <option value="PyQt5.QtWidgets.tabCloseRequested.connect" />
+          <option value="PyQt5.QtWidgets.currentChanged.connect" />
+          <option value="PyQt5.QtWidgets.triggered.connect" />
+          <option value="PyQt5.QtWidgets.returnPressed.connect" />
+          <option value="PyQt5.QtWebEngineWidgets.urlChanged.connect" />
+          <option value="PyQt5.QtWebEngineWidgets.loadFinished.connect" />
+          <option value="PyQt5.QtCore.QUrl.QUrl.setScheme" />
+          <option value="PyQt5.QtCore.QUrl.QUrl.scheme" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
